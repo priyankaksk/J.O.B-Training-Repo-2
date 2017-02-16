@@ -2,7 +2,7 @@
 
 If you are looking for self guided training repository for CTS-IT Gitflow training then you are in the right spot. In this repository you will find the files and materials needed to create a python program that will sort the included phonebook.csv file into an output list of people's names and phone numbers sorted by last name. Please do not spend a lot of time on the code portion of this exercise as it is more important that you follow the gitflow procedure that will result in a pull request in Github. If you have any trouble please see the instructor.
 
-Please edit the included phonebook.py file in anyway necessary to create the resulting output and remember to use your [Gitflow Guide](https://github.com/ctsit/J.O.B-Training-Repo-1/blob/master/git-flow-cheatsheet.md)
+Please edit the included phonebook.py file in anyway necessary to create the resulting output and remember to use your [Gitflow Guide](https://github.com/ctsit/J.O.B-Training-Repo-1/blob/master/git-flow-cheatsheet.md). After you are done with the programming finish your feature, create a pull request back to the develop branch of the CTS-IT J.O.B-Training-Repo-2 repository and find your instructor to proceed to module four of this gitflow training.
 
 The resulting output of your Python program should result in the following list:
 
