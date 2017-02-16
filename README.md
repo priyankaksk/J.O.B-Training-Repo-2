@@ -1,8 +1,8 @@
 # J.O.B-Training-Repo-2
 
-If you are looking for self guided training repository for CTS-IT Gitflow training then you are in the right spot. In this repository you will find the files and materials needed to create a python program that will sort the included phonebook.csv file into an output list of people's names and phone numbers sorted by last name. Please do not spend a lot of time on the code portion of this exercise as it is more important that you follow the gitflow procedure that will result in a pull request in Github. 
+If you are looking for self guided training repository for CTS-IT Gitflow training then you are in the right spot. In this repository you will find the files and materials needed to create a python program that will sort the included phonebook.csv file into an output list of people's names and phone numbers sorted by last name. Please do not spend a lot of time on the code portion of this exercise as it is more important that you follow the gitflow procedure that will result in a pull request in Github. If you have any trouble please see the instructor.
 
-Please remember to use your guide [Gitflow Guide](https://github.com/ctsit/J.O.B-Training-Repo-1/blob/master/git-flow-cheatsheet.md)
+Please remember to use your [Gitflow Guide](https://github.com/ctsit/J.O.B-Training-Repo-1/blob/master/git-flow-cheatsheet.md)
 
 The resulting output of your Python program should result in the following list:
 
@@ -26,6 +26,4 @@ The resulting output of your Python program should result in the following list:
 | Mitsue     | Tollner   | 773-573-6914 |
 | Art        | Venere    | 856-636-8749 |
 | Yuki       | Whobrey   | 313-288-7937 |
-| Sage       | Wieser    | 605-414-2147 |
-
-If you have any trouble please see the instructor.
+| Sage       | Wieser    | 605-414-2147 |
