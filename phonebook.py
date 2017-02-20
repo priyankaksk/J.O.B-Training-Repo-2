@@ -16,8 +16,6 @@ sorted_by_lastname = sorted(peoples_contacts, key=lambda tup: tup[1])
 
 print sorted_by_lastname
 
-f = open(os.getcwd() + "/sorted_contacts.txt", "w")
-
 with open('output_file.csv','w') as out:
    csv_out=csv.writer(out)
    csv_out.writerow(header)
